@@ -1,7 +1,8 @@
 # Module 14 Challenge
 ## Due Thursday by 23:59 Points 100 Submitting a text entry box or a website url
 
-# PLEASE CLICK ON Deployed to Github Pages https://timonx11.github.io/belly-button-challenge/ TO ACCESS THE PUBLISHED SITE.
+# CLICK ON Deployed to Github Pages https://timonx11.github.io/belly-button-challenge/ TO ACCESS THE PUBLISHED SITE.
+## PLEASE note that the site can take up to 30 seconds to load
 
 # Background
 In this assignment, you will build an interactive dashboard to explore the Belly Button Biodiversity datasetLinks to an external site., which catalogues the microbes that colonise human navels.
