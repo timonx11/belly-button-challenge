@@ -62,8 +62,8 @@ function barbubbleCharts(sample) {
         console.log(otu_ids,otu_labels,sample_values);
 
         // slicing top ten data to display in descending order for the bar chart
-        let yticks = otu_ids.slice(0,10).map(id => `OTU ${id}`);
         let xticks = sample_values.slice(0,10).reverse();
+        let yticks = otu_ids.slice(0,10).map(id => `OTU ${id}`);
         let labels = otu_labels.slice(0,10);
         
         // Set up the plotly trace for the bar chart
